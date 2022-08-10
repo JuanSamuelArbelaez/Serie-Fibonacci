@@ -1,2 +1,3 @@
-# University (2021-1)
-Repository of my first programs created on my first semester at University, using Python
+# Universidad (2021-1)
+
+Repositorio mis programas, creados para el espacio académico de 'Lógica de Programación', en mi primer semestre en la Universidad del Quindío. 
